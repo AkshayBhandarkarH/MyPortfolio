@@ -121,6 +121,9 @@ function Contact() {
           </div>
         </center>
       </form>
+      <footer className="footer-bottom">
+        <p>&copy; 2024 Akshay Bhandarkar H. All rights reserved.</p>
+      </footer>
     </div>
   );
 }
